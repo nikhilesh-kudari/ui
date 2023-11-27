@@ -1,5 +1,5 @@
 import React from "react";
-import { data } from "../App";
+import { data } from "../App.js";
 import { useState } from "react";
 import { useContext } from "react";
 import { useLocation, useNavigate } from "react-router-dom";

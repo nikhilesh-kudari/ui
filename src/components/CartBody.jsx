@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { useEffect } from "react";
 import { useContext } from "react";
-import { data } from "../App";
+import { data } from "../App.js";
 import { useNavigate } from "react-router-dom";
 
 export default function CartBody() {

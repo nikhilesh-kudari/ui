@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useContext } from "react";
-import { data } from "../App";
+import { data } from "../App.js";
 
 export default function SellCarBody() {
   let [company, setCompany] = useState("");
