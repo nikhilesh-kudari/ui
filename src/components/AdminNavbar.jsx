@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { data } from "../App";
+import { data } from "../App.js";
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { data } from "../App";
+import { data } from "../App.js";
 import { useContext } from "react";
 
 export default function CustomerSelledCars() {

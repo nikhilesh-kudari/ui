@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { data } from "../App";
+import { data } from "../App.js";
 
 export default function LoginBody() {
   let [email, setEmail] = useState("");
